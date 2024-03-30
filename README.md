@@ -7,7 +7,7 @@ A mod originally from **EightBall**, donated to Vietnam War Vessels.
 
 **Tom Sandvik**'s M1 helmet is in use:
 https://sketchfab.com/3d-models/vietnam-war-era-m1-helmet-c4009bdb0f1b4510b710bd3c8d4aa033
-https://creativecommons.org/licenses/by-nc/4.0/ - Attribution-NonCommercial 4.0 International license in use
+[ https://creativecommons.org/licenses/by-nc/4.0/ - Attribution-NonCommercial 4.0 International license in use ]
 
 ## Further Modifications ##
 
