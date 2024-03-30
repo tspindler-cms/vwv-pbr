@@ -1,7 +1,6 @@
-# vwv-pbr
-Vietnam War Vessels - Patrol Boat, River
+# Vietnam War Vessels - Patrol Boat, River
 
-A mod originally from EightBall, donated to Vietnam War Vessels.
+A mod originally from **EightBall**, donated to Vietnam War Vessels.
 
 Modified for the VWV mod by TeTeT.
 
