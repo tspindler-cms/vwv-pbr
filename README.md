@@ -1,5 +1,6 @@
 # Vietnam War Vessels - Patrol Boat, River
 
+This mod is released under the Creative Commons Attribution-NonCommercial-ShareAlike license, see LICENSE.md for details
 
 A mod originally from **EightBall**, donated to Vietnam War Vessels.
 
