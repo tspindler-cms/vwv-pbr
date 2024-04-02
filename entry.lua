@@ -1,19 +1,17 @@
 declare_plugin("tetet_PBR_MKII",
-
 {
-displayName   	= _("PBR MKII"),
-shortName	  	=   "PBR MKII",
-installed 	 	= true, 
-dirName	  	 	= current_mod_path,
+    displayName   	= _("PBR MKII"),
+    shortName	  	=   "PBR MKII",
+    installed 	 	= true, 
+    dirName	  	 	= current_mod_path,
 
-encyclopedia_path = current_mod_path..'/Encyclopedia',
-	
-fileMenuName 	= _("PBR MKII"),
-version		 	= "0.4.0",		 
-state		 	= "installed",
-developerName	= "",
-info		 	= _("PBR MKII"),
-
+    encyclopedia_path = current_mod_path..'/Encyclopedia',
+        
+    version		 	= "0.4.0",		 
+    state		 	= "installed",
+    fileMenuName  =   _("vwv_pbr_mkii"),
+    developerName =   "TeTeT",
+    info		 	= _("PBR MKII"),
 })
 --------------------------------------------------------------------------------------------------------------------------
 -- shapes

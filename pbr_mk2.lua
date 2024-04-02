@@ -63,6 +63,10 @@ GT.airWeaponDist = 5200
 GT.airFindDist = 40000
 
 GT.Sensors = {  OPTIC = {"long-range naval optics", "long-range naval LLTV", "long-range naval FLIR",} };
+GT.sensor = {};
+set_recursive_metatable(GT.sensor, GT_t.SN_visual);
+GT.sensor.height = 3;
+GT.sensor.max_range_finding_target = 500;
 
 -----------------------------------------------------------------------------------
 --  Damage Section
